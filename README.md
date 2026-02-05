@@ -1,5 +1,7 @@
 ## Hi there 👋, I'm Nomi
 
+I came from 2213 to find Sarah Connor
+
 <!--
 **nomi2213/nomi2213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
